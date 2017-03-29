@@ -2,6 +2,9 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 baseURL = "http://example.org/"
 theme = "daniel_cv"
+enableRobotsTXT = true
+DisableRSS = true
+DisableSitemap = true
 [params.profile]
     first_name = "Daniel"
     last_name = "Peppicelli"
