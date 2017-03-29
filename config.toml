@@ -14,5 +14,6 @@ Now that I'm back in Switzerland, I'm looking for any opportunities with **good 
     picture = "profile.jpg"
     birthday = "30.01.1983"
     nationality = "Swiss"
+    address = "Samson Reymondin 28, Pully"
 [blackfriday]
   hrefTargetBlank = true
