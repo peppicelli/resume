@@ -6,7 +6,7 @@ theme = "daniel_cv"
     first_name = "Daniel"
     last_name = "Peppicelli"
     tagline = "Full Stack Engineer"
-    summary = """I'm a **full stack engineer** with 8 years of experience and I just completed a one year travel break around the world. Highly passionated by software and computer in general, you will find me hacking around with an soldering iron an a Raspberry PI when I'm not reading the latest items on [Hacker News](https://news.ycombinator.com/news).
+    summary = """I'm a **full stack engineer** with 8 years of experience and I just completed a one year travel break around the world. Highly passionated by software and computer in general, you will find me hacking around with a soldering iron and a Raspberry PI when I'm not reading the latest items on [Hacker News](https://news.ycombinator.com/news).
 
 Now that I'm back in Switzerland, I'm looking at any opportunities with **good software challenges** and a **solid team spirit**"""
     phone = "+41788281082"
