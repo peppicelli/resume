@@ -5,6 +5,8 @@ theme = "daniel_cv"
 enableRobotsTXT = true
 DisableRSS = true
 DisableSitemap = true
+googleAnalytics = "UA-96539286-1"
+
 [params.profile]
     first_name = "Daniel"
     last_name = "Peppicelli"
