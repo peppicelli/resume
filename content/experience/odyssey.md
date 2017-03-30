@@ -9,7 +9,7 @@ main_achievements = [
 ]
 date = "2017-03-24T16:14:39-05:00"
 start_date = "2008"
-logo = "odyssey.jpg"
+logo = "odyssey.png"
 display_project = true
 responsabilities = [
   "Member of the \"customization\" team, I did develop and implement the changes to the original software suite upon the client's request.",

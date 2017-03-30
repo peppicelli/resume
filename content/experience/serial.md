@@ -16,5 +16,5 @@ responsabilities = [
 ]
 logo = "serial.png"
 company = "Serial SA / Union Banquaire Privée"
-website = "www.serial.ch"
+website = "https://www.serial.ch"
 +++

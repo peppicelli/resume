@@ -2,7 +2,7 @@
 display_project = true
 start_date = "2013"
 title = "Software architect / Tech lead"
-logo = "hbp.jpg"
+logo = "hbp.png"
 company = "Human Brain Project (EPFL) - Neurorobotics"
 project = "The [**Neurorobotics Platform (NRP)**](https://neurorobotics.net/) developed in the [**Human Brain Project**](https://www.humanbrainproject.eu/) (HBP) is an Internet-accessible simulation system that allows the simulation of **robots** controlled by **spiking neural networks**. It targets researchers of multiple fields. Prospected users, include but are not limited to neuroscientists,  wanting to validate brain models in the context of closed action-perception loops as well as robotics researchers wanting to develop new neuro-inspired controllers. The platform code [can be found on BitBucket](https://bitbucket.org/hbpneurorobotics/)."
 main_achievements = [
