@@ -11,8 +11,8 @@ main_achievements = [
   "The whole development team was looking for ways to increase our test code coverage. I introduced a **Model View Controller** way to code new [**QT**](https://www.qt.io/) based features for our programming environment. It became the standard.",
   "I did lead the search and the implementation of a highly efficient web server to run on our embedded system."]
 responsabilities = [
-  "[**QT**](https://www.qt.io/) & `C++` development on the Windows programming environment.",
-  "`C++` (using C++11) development on the embedded controllers.",
+  "`C++` & [**QT**](https://www.qt.io/) development on the Windows programming environment.",
+  "`C++` (using C++11) development on the embedded controllers. ([**QorIQ**](http://www.nxp.com/products/microcontrollers-and-processors/power-architecture-processors/qoriq-platforms:QORIQ_HOME) family and [**QNX**](http://www.qnx.com) OS)",
   "Fieldbuses implementation (mainly [**EtherCAT**](https://www.ethercat.org/default.htm)).",
   "`Javascript` / `HTML5` / [**JQuery**](https://jquery.com/) development for a web based interface to the embedded controller.",
   "Third level support for critical bugs & issues in the field.",

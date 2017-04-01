@@ -8,9 +8,8 @@ title = "Globetrotter for one year"
 logo = "365daysoff.png"
 project = "During 365 days, my partner and I traveled the world through Turkey, Iran, Georgia, Armenia, Kazakhstan, Uzbekistan, India, Sri Lanka, Myanmar, Thailand, Japan, Australia, Peru, Bolivia, Ecuador & Colombia."
 main_achievements = [
-  "Me and my partner stayed safe, healthy, on budget and more importantly happy during the whole year!",
-  "We managed to publish a video of our travels every week using professional and open source tools: [**Blackmagic Da Vinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve) (an *Hollywood* grade video editor that is free!), [**Blackmagic Fusion**](https://www.blackmagicdesign.com/products/fusion), [**Blender**](https://www.blender.org/) and [**Inkscape**](https://inkscape.org/en/). Our YouTube channel ([http://youtube.co/365daysoff](http://youtube.co/365daysoff)) ended up with  30'000 views and 200 subscribers.",
-  "We did send out a [newsletter](http://us12.campaign-archive2.com/home/?u=fd96e73423291b36233ec3b8e&id=b5156eb29d) every week (using [**Mailchimp**](https://mailchimp.com/)) and we did maintain a blog: [**365daysoff.ch**](http://365daysoff.ch). Have a look!"
+  "Staying safe, healthy, on budget and more importantly happy during the whole year was a challenge that my partner and I mastered!",
+  "We managed to publish a video of our travels every week using professional and open source tools: [**Blackmagic Da Vinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve) (an *Hollywood* grade video editor that is free!), [**Blackmagic Fusion**](https://www.blackmagicdesign.com/products/fusion), [**Blender**](https://www.blender.org/) and [**Inkscape**](https://inkscape.org/en/). Our YouTube channel ([http://youtube.co/365daysoff](http://youtube.co/365daysoff)) ended up with  30'000 views and 200 subscribers."
 ]
 responsabilities = []
 website = "http://365daysoff.ch"

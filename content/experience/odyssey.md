@@ -4,8 +4,7 @@ end_date = "2010"
 project = "**The Odyssey Software Suite (or Triple A+)** was a `J2EE` web application dedicated to different professions within the private banking sector. It was including portfolio management, order management & client relationship management systems with encrypted databases."
 main_achievements = [
   "I did setup a nightly environment deployment which helped a lot the business analysts in their day to day interactions with the different clients.",
-  "I did take over one of the main client customization in less than a week after the contract with the previous external consultant team was abruptly terminated. The client was so happy with my work that 6 months later, they requested my presence onsite at their expenses.",
-  "All our GOLIVE weekends were successful."
+  "I did take over one of the main client customization in less than a week after the contract with the previous external consultant team was abruptly terminated. The client was so happy with my work that 6 months later, they requested my presence onsite at their expenses."
 ]
 date = "2017-03-24T16:14:39-05:00"
 start_date = "2008"

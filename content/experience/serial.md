@@ -1,6 +1,6 @@
 +++
 title = "External consultant (software engineer) for SERIAL SA"
-project = "The Portfolio management system of the bank has been written in the mid-nineties in `C++` and compiled with a non-ANSI (Sun) compiler. The goal of the project was to port the code to standard `C++ 98`."
+project = "The Portfolio management system of the bank had been written in the mid-nineties in `C++` and compiled with a non-ANSI (Sun) compiler. The goal of the project was to port the code to standard `C++ 98`."
 date = "2017-03-24T19:28:09-05:00"
 end_date = ""
 main_achievements = [

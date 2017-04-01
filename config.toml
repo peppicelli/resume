@@ -6,19 +6,45 @@ enableRobotsTXT = true
 DisableRSS = true
 DisableSitemap = true
 googleAnalytics = "UA-96539286-1"
+defaultContentLanguage = "en"
+relativeURLs = true
+EnableMissingTranslationPlaceholders = true
+defaultContentLanguageInSubdir = true
 
-[params.profile]
-    first_name = "Daniel"
-    last_name = "Peppicelli"
-    tagline = "Full Stack Engineer"
-    summary = """I'm a **full stack engineer** with 8 years of experience and I just completed a one year travel break around the world. Highly passionated by software and computer in general, you will find me hacking around with a soldering iron and a Raspberry PI when I'm not reading the latest items on [Hacker News](https://news.ycombinator.com/news).
+[Languages]
+[Languages.en]
+weight = 20
+[Languages.en.params.profile]
+first_name = "Daniel"
+last_name = "Peppicelli"
+phone = "+41788281082"
+email = "daniel.peppicelli@gmail.com"
+picture = "profile.jpg"
+birthday = "30.01.1983"
+tagline = "Full Stack Engineer"
+address = "Samson Reymondin 28, Pully"
+availability = "Immediately available"
+summary = """I'm a **full stack engineer** with 8 years of experience and I just completed a one year travel break around the world. Highly passionated by software and computer in general, you will find me hacking around with a soldering iron and a Raspberry PI when I'm not reading the latest items on [Hacker News](https://news.ycombinator.com/news).
 
 Now that I'm back in Switzerland, I'm looking for any opportunities with **good software challenges** and a **solid team spirit**"""
-    phone = "+41788281082"
-    email = "daniel.peppicelli@gmail.com"
-    picture = "profile.jpg"
-    birthday = "30.01.1983"
-    nationality = "Swiss"
-    address = "Samson Reymondin 28, Pully"
+nationality = "Swiss"
+
+[Languages.fr]
+weight = 20
+[Languages.fr.profile]
+first_name = "Daniel"
+last_name = "Peppicelli"
+phone = "+41788281082"
+email = "daniel.peppicelli@gmail.com"
+picture = "profile.jpg"
+birthday = "30.01.1983"
+tagline = "Ingénieur Full Stack"
+address = "Samson Reymondin 28, Pully"
+availability = "Disponible de suite"
+summary = """**Ingénieur "Full stack"** avec 8 ans d'expériences professionnelles, je rentre d'une année de voyage autour du monde. Passionné par le développement logiciel et par l'informatique en général, vous me trouverez fréquemment avec un fer à souder dans la main, en train de programmer sur un Raspberry PI ou à lire les derniers articles sur [Hacker News](https://news.ycombinator.com/news).
+
+Maintenant que je suis de retour en Suisse, je suis à la recherche de nouvelles opportunités professionnelles, en particulier et si possible avec de bons défis software, ainsi qu'un excellent esprit d'équipe."""
+nationality = "Suisse"
+
 [blackfriday]
   hrefTargetBlank = true
