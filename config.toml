@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "My New Hugo Site"
-baseURL = "http://example.org/"
+baseURL = "https://peppicelli.github.io/"
 theme = "daniel_cv"
 enableRobotsTXT = true
 DisableRSS = true
@@ -11,10 +11,7 @@ relativeURLs = true
 EnableMissingTranslationPlaceholders = true
 defaultContentLanguageInSubdir = true
 
-[Languages]
-[Languages.en]
-weight = 20
-[Languages.en.params.profile]
+[params.profile]
 first_name = "Daniel"
 last_name = "Peppicelli"
 phone = "+41788281082"
@@ -28,6 +25,11 @@ summary = """I'm a **full stack engineer** with 8 years of experience and I just
 
 Now that I'm back in Switzerland, I'm looking for any opportunities with **good software challenges** and a **solid team spirit**"""
 nationality = "Swiss"
+
+[Languages]
+[Languages.en]
+weight = 20
+
 
 [Languages.fr]
 weight = 20
