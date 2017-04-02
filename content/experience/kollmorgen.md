@@ -15,9 +15,10 @@ responsabilities = [
   "`C++` (using C++11) development on the embedded controllers. ([**QorIQ**](http://www.nxp.com/products/microcontrollers-and-processors/power-architecture-processors/qoriq-platforms:QORIQ_HOME) family and [**QNX**](http://www.qnx.com) OS)",
   "Fieldbuses implementation (mainly [**EtherCAT**](https://www.ethercat.org/default.htm)).",
   "`Javascript` / `HTML5` / [**JQuery**](https://jquery.com/) development for a web based interface to the embedded controller.",
-  "Third level support for critical bugs & issues in the field.",
+  "3<sup>rd</sup> level support for critical bugs & issues in the field.",
   "Technical coaching of a remote Indian development team.",
   "High focus on quality: **unit tests**, **system and manual tests**, **TDD** (Test Driven Development), **checklists**, **code team inspections** and **continuous integration** with multiple validation steps."]
 date = "2017-03-22T14:56:08-05:00"
 website = "http://www.kollmorgen.com"
+anchor = "kollmorgen"
 +++

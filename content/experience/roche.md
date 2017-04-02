@@ -16,4 +16,5 @@ responsabilities = [
 end_date = ""
 start_date = "2007"
 logo = "roche.png"
+anchor = "roche"
 +++

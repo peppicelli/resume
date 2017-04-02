@@ -23,4 +23,5 @@ responsabilities = [
 
 date = "2017-03-22T14:56:08-05:00"
 website = "http://www.kollmorgen.com"
+anchor = "kollmorgen"
 +++

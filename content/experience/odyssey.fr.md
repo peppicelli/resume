@@ -20,4 +20,5 @@ responsabilities = [
 ]
 title = "Consultant externe (ingénieur logiciel) pour SERIAL SA"
 website = ""
+anchor = "odyssey"
 +++

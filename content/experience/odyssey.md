@@ -14,8 +14,9 @@ responsabilities = [
   "Member of the \"customization\" team, I did develop and implement the changes to the original software suite upon the client's request.",
   "`J2EE` (Apache Cocoon based), `HTML`, `CSS` and `JavaScript` development.",
   "Onsite deployments on [**WebLogic**](http://www.oracle.com/technetwork/middleware/weblogic/overview/index-085209.html) with a [**Sybase**](https://www.sap.com/product/data-mgmt/sybase-ase.html) DBS.",
-  "Third level support"
+  "3<sup>rd</sup> level support"
 ]
 title = "External consultant (software engineer) for SERIAL SA"
 website = ""
+anchor = "odyssey"
 +++
