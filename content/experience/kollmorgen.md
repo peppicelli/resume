@@ -18,6 +18,19 @@ responsabilities = [
   "3<sup>rd</sup> level support for critical bugs & issues in the field.",
   "Technical coaching of a remote Indian development team.",
   "High focus on quality: **unit tests**, **system and manual tests**, **TDD** (Test Driven Development), **checklists**, **code team inspections** and **continuous integration** with multiple validation steps."]
+
+images = ["kas1.png", "kas2.png", "kas3.png"]
+
+captions = [
+  "Kollmorgen IDE (written in C++ with Qt).",
+  "One of the embedded controller that could be programmed through the IDE.",
+  "Example of a machine with multiple axis powered by Kollmorgen controllers and motors."
+  ]
+
+work_certificate_excerpt = "Daniel joined the Lausanne scrum team and Immediately became a full contributing team member within just couple months, where usual ramp-up period is more around 6 months due to the complexity of the project. Daniel ability to learn complex new things is outstanding, I never worked with such great engineer able to understand and apply new concept/technology in such rapid and efficient way."
+
+work_certificate = "Kollmorgen_work_certificate.pdf"
+
 date = "2017-03-22T14:56:08-05:00"
 website = "http://www.kollmorgen.com"
 anchor = "kollmorgen"

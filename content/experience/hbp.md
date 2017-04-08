@@ -22,6 +22,19 @@ responsabilities = [
   "Setup of a complete **continuous delivery pipeline** including the build system (with versioning), the code coverage enforcement (along with metrics and KPIs), the package management (`RPMs`,`npm` & `pypy`) and deployments (using [**puppet**](https://puppet.com/) and [**openstack**](https://www.openstack.org/)).",
 ]
 
+images = ["hbp1.png", "hbp2.png", "hbp3.png", "hbp4.png", "hbp5.png"]
+
+captions = [
+  "Rendering of the platform on a Display Wall powered by a graphical cluster.",
+  "The platform allows to programs the neuron models and their effect on the robots in python from your browser",
+  "Behind the scene, ROS (robot operating system), Gazebo (robot simulator).",
+  "The spiking activity of the neural network as well as the sensors and actuators data can be monitored from the browser as well.",
+  "Some part of the code, for example the rendering improvements, have been submitted in integrated in the open source tools used in the platform."]
+
+work_certificate_excerpt = "Personnalité aimable et ouverte, Monsieur Peppicelli Daniel a été pour l'ensemble du personnel un collègue estimé et respecté. Ses supérieurs ont relevé sa loyauté et son esprit collaboratif. Monsieur Peppicelli Daniel a été très appécié tant par ses collègues que par ses supérieurs."
+
+work_certificate = "Neurorobotics_HBP_work_certificate.pdf"
+
 date = "2017-03-22T16:42:56-05:00"
 end_date = "2016"
 website = "http://humanbrainproject.eu"

@@ -19,4 +19,9 @@ responsabilities = [
 title = "External consultant (software engineer) for SERIAL SA"
 website = ""
 anchor = "odyssey"
+
+work_certificate_excerpt = "Il s'est révélé être un collaborateur exceptionnel, à la fois créatif et rigoureux, autonome et disposant d'une solide expertise technique, pour notre plus grande satisfaction et pour celle de nos clients."
+
+work_certificate = "Serial_work_certificate.pdf"
+
 +++

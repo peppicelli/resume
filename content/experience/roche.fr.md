@@ -21,4 +21,9 @@ end_date = ""
 start_date = "2007"
 logo = "roche.png"
 anchor = "roche"
+
+work_certificate_excerpt = "During this time, Daniel worked closely with all team members and stakeholders to re-architect the business and interface logic. Daniel's role was critical in this effort. He proposed wonderful new ideas and worked with the team successfully to implement the agreed upon solutions. In doing this, Daniel was involved throughout the entire design process."
+
+work_certificate = "Roche_work_certificate.pdf"
+
 +++

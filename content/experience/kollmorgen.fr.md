@@ -21,6 +21,18 @@ responsabilities = [
   "Coaching technique d'une équipe de développement externe en Inde.",
   "Attention particulière sur la qualité du code au travers de **tests unitaires**, **tests globaux et manuels**, **TDD** (développement piloté par des tests), **checklists**, **inspection du code par l'équipe** et **livraison continue**"]
 
+images = ["kas1.png", "kas2.png", "kas3.png"]
+
+captions = [
+  "Kollmorgen IDE (écrit en C++ avec Qt).",
+  "Un contrôleur embarqué qui se programme à l'aide de l'IDE.",
+  "Exemple d'une machine multiaxes construite avec les contrôleurs et le moteurs Kollmorgen."
+  ]
+
+work_certificate_excerpt = "Daniel joined the Lausanne scrum team and Immediately became a full contributing team member within just couple months, where usual ramp-up period is more around 6 months due to the complexity of the project. Daniel ability to learn complex new things is outstanding, I never worked with such great engineer able to understand and apply new concept/technology in such rapid and efficient way."
+
+work_certificate = "Kollmorgen_work_certificate.pdf"
+
 date = "2017-03-22T14:56:08-05:00"
 website = "http://www.kollmorgen.com"
 anchor = "kollmorgen"

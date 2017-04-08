@@ -21,6 +21,20 @@ responsabilities = [
   "Mise en place d'un environement de développement Agile et formation des dévelopeurs internes et externes. Après une année, deux équipes Agile travaillaient de manière efficace sur la plateforme. J'ai brièvement tenu les rôles de **Scrummaster** (pendant 6 mois) et de **product owner** (pendant 6 autres mois) avant que d'autres membres de l'équipe puissent me remplacer.",
   "Mise en place d'une procédure automatique de livraison continue (continuous delivery) avec un système de build, un framework de test s'assurant d'une bonne couverture sur le code, une construction de packages (`RPMs`,`npm` & `pypy`) avec numéro de version et un déploiement automatique (à l'aide de [**puppet**](https://puppet.com/) et [**openstack**](https://www.openstack.org/)).",
 ]
+
+images = ["hbp1.png", "hbp2.png", "hbp3.png", "hbp4.png", "hbp5.png"]
+
+captions = [
+  "Rendu de la platform sur un mur d'écrans en utisant un cluster graphique.",
+  "La platforme permet de créer et de modifier des modèles de neurones en python, directement depuis le navigateur.",
+  "ROS (robot operating system) et Gazebo (un simulateur de robots) sont à la base du moteur de la platforme.",
+  "L'activité neuronale ainsi que celles de senseurs et des actuateurs s'affiche dans le navigateur.",
+  "L'équipe de dévelopement a participé à l'améloriation des outils open sources utilisés, par exemple en améliorant le moteur de rendu web de Gazebo."]
+
+work_certificate_excerpt = "Personnalité aimable et ouverte, Monsieur Peppicelli Daniel a été pour l'ensemble du personnel un collègue estimé et respecté. Ses supérieurs ont relevé sa loyauté et son esprit collaboratif. Monsieur Peppicelli Daniel a été très appécié tant par ses collègues que par ses supérieurs."
+
+work_certificate = "Neurorobotics_HBP_work_certificate.pdf"
+
 date = "2017-03-22T16:42:56-05:00"
 end_date = "2016"
 website = "http://humanbrainproject.eu"
