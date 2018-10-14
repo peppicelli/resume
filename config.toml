@@ -20,10 +20,10 @@ picture = "profile.jpg"
 birthday = "30.01.1983"
 tagline = "C++, embedded & Web Engineer"
 address = "Samson Reymondin 28, Pully"
-availability = "Immediately available"
-summary = """I'm a **C++, embedded & Web engineer** with 8 years of experience and I just completed a one year travel break around the world. Highly passionated by software and computer in general, you will find me hacking around with a soldering iron and a Raspberry PI when I'm not reading the latest items on [Hacker News](https://news.ycombinator.com/news).
+availability = "Available as of May 6th 2019"
+summary = """I'm a **C++, embedded & Web engineer** with 10 years of experience. Highly passionated by software and computer in general, you will find me hacking around with a soldering iron and a Raspberry PI when I'm not reading the latest items on [Hacker News](https://news.ycombinator.com/news).
 
-Now that I'm back in Switzerland, I'm looking for any opportunities with **good software challenges** and a **solid team spirit**"""
+I'm looking for any opportunities with **good software challenges** and a **solid team spirit**"""
 nationality = "Swiss"
 
 [Languages]
@@ -42,10 +42,10 @@ picture = "profile.jpg"
 birthday = "30.01.1983"
 tagline = "Ingénieur C++, embarqué et Web"
 address = "Samson Reymondin 28, Pully"
-availability = "Disponible de suite"
-summary = """**Ingénieur C++, embarqué et Web** avec 8 ans d'expériences professionnelles, je rentre d'une année de voyage autour du monde. Passionné par le développement logiciel et par l'informatique en général, vous me trouverez fréquemment avec un fer à souder dans la main, en train de programmer sur un Raspberry PI ou à lire les derniers articles sur [Hacker News](https://news.ycombinator.com/news).
+availability = "Disponible à partir du 6 Mai 2019"
+summary = """**Ingénieur C++, embarqué et Web** avec 10 ans d'expériences professionnelles. Passionné par le développement logiciel et par l'informatique en général, vous me trouverez fréquemment avec un fer à souder dans la main, en train de programmer sur un Raspberry PI ou à lire les derniers articles sur [Hacker News](https://news.ycombinator.com/news).
 
-Maintenant que je suis de retour en Suisse, je suis à la recherche de nouvelles opportunités professionnelles, en particulier et si possible avec de bons défis software, ainsi qu'un excellent esprit d'équipe."""
+Je suis à la recherche de nouvelles opportunités professionnelles, en particulier avec de bons défis software, ainsi qu'un excellent esprit d'équipe."""
 nationality = "Suisse"
 
 [blackfriday]
