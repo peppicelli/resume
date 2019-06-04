@@ -1,7 +1,7 @@
 languageCode = "en-us"
 title = "My New Hugo Site"
 baseURL = "https://peppicelli.github.io/"
-theme = "daniel_cv"
+theme = "hugo-resume"
 enableRobotsTXT = true
 DisableRSS = true
 DisableSitemap = true
@@ -20,10 +20,9 @@ picture = "profile.jpg"
 birthday = "30.01.1983"
 tagline = "C++, embedded & Web Engineer"
 address = "Samson Reymondin 28, Pully"
-availability = "Available as of May 6th 2019"
-summary = """I'm a **C++, embedded & Web engineer** with 10 years of experience. Highly passionated by software and computer in general, you will find me hacking around with a soldering iron and a Raspberry PI when I'm not reading the latest items on [Hacker News](https://news.ycombinator.com/news).
-
-I'm looking for any opportunities with **good software challenges** and a **solid team spirit**"""
+availability = "Available for small missions and consultancy (2019)."
+github = "https://github.com/peppicelli"
+summary = """I'm a **C++, embedded & Web engineer** with 10 years of experience. Highly passionated by software and computer in general, you will find me hacking around with a soldering iron and a Raspberry PI when I'm not reading the latest items on [Hacker News](https://news.ycombinator.com/news)."""
 nationality = "Swiss"
 
 [Languages]
@@ -42,10 +41,9 @@ picture = "profile.jpg"
 birthday = "30.01.1983"
 tagline = "Ingénieur C++, embarqué et Web"
 address = "Samson Reymondin 28, Pully"
-availability = "Disponible à partir du 6 Mai 2019"
-summary = """**Ingénieur C++, embarqué et Web** avec 10 ans d'expériences professionnelles. Passionné par le développement logiciel et par l'informatique en général, vous me trouverez fréquemment avec un fer à souder dans la main, en train de programmer sur un Raspberry PI ou à lire les derniers articles sur [Hacker News](https://news.ycombinator.com/news).
-
-Je suis à la recherche de nouvelles opportunités professionnelles, en particulier avec de bons défis software, ainsi qu'un excellent esprit d'équipe."""
+availability = "Disponible pour de petites missions et du consulting (2019)."
+github = "https://github.com/peppicelli"
+summary = """**Ingénieur C++, embarqué et Web** avec 10 ans d'expériences professionnelles. Passionné par le développement logiciel et par l'informatique en général, vous me trouverez fréquemment avec un fer à souder dans la main, en train de programmer sur un Raspberry PI ou à lire les derniers articles sur [Hacker News](https://news.ycombinator.com/news)."""
 nationality = "Suisse"
 
 [blackfriday]

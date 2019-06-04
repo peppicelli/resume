@@ -1,7 +1,7 @@
 +++
 display_project = true
 start_date = "2017"
-title = "Senior software engineer"
+title = "Tech lead"
 logo = "atracsys.png"
 company = "Atracsys"
 
@@ -13,6 +13,7 @@ responsabilities = [
   "Embedded Linux image maintenance using [**Yocto**](https://www.yoctoproject.org/), `bash scripting` and `python`",
   "Active participation in the design and implementation of the tracking and detection algorithms.",
   "Full stack Bluetooth Low Energy development, from the embedded platform using [*Silicon labs* Bluegiga chips](https://www.silabs.com/products/development-tools/software/bluegiga-bluetooth-smart-software-stack) to an [**Android** application](https://play.google.com/store/apps/details?id=com.atracsys.sprytrackdemo).",
+  "Python wrapper development using [`distutils`](https://docs.python.org/3.7/library/distutils.html), `CMake` and [`PyBind11`](https://github.com/pybind/pybind11). The result is published on [**pypi**](https://pypi.org/project/atracsys/).",
   "Installation, maintenance, training and transition to a full Continuous Integration pipeline using [**gitlab**](https://about.gitlab.com/community/), [**jenkins**](https://jenkins.io/), [**openLDAP**](https://www.openldap.org/), [**Bacula**](https://blog.bacula.org/) and [**Docker**](https://www.docker.com/).",
   "Quality delegate for the software department. Active role in the [**ISO 13485**](https://www.iso.org/standard/59752.html) certification of the company and the maintenance of [**IEC 62304**](https://en.wikipedia.org/wiki/IEC_62304) related processes.",
 ]
